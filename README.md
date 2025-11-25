@@ -91,6 +91,6 @@ Admin pages are inside:
 
 Uploaded images live in:
 
-/Student_Clubs_CMS/uploads/club_logos/logo.png
-/Student_Clubs_CMS/uploads/event_posters/poster.jpg
-/Student_Clubs_CMS/uploads/member_photos/user.png
+- /Student_Clubs_CMS/uploads/club_logos/logo.png
+- /Student_Clubs_CMS/uploads/event_posters/poster.jpg
+- /Student_Clubs_CMS/uploads/member_photos/user.png
