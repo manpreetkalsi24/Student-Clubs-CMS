@@ -1,66 +1,98 @@
-# Student-Clubs-CMS
-📘 Student Clubs CMS
+# 📘 Student Clubs CMS
 
-A simple PHP & MySQL based Content Management System that allows students to explore clubs, events, register as members, and manage the whole platform through an admin dashboard.
+A simple PHP & MySQL based Content Management System that allows students to explore clubs, events, register as members, and manage everything through an admin dashboard.
 
-👩‍💻 Developed By:
+---
+## 👩‍💻 Developed By  
+**Manpreet Kaur**
 
-Manpreet Kaur
+---
+# 📌 Overview
 
-📌 Overview
+The **Student Clubs CMS** helps students:
+- Explore different student clubs  
+- View upcoming events  
+- Register for events  
+- Become a club member  
+- Manage everything through an admin panel  
 
-The Student Clubs CMS is a web application that allows:
+This project includes **Admin Panel + Frontend Website + User Login System**.
 
-Students to explore different clubs
+---
+# ✨ Features
 
-View upcoming events
+## 🛠️ Admin Panel Features
+- Admin Login  
+- Manage Clubs (Add / Edit / Delete)  
+- Manage Members  
+- Manage Events  
+- Upload Event Posters  
+- Upload Multiple Event Photos (Gallery)  
+- Upload Members Photos  
+- View Event Registrations  
+- Dashboard Overview  
+- Clean & Responsive UI  
 
-Register for events
+---
 
-Become a member of a club
+## 🌐 Frontend Features
+- Homepage with featured clubs & events  
+- Club Details Page (Members + Events + Description)  
+- Event Details Page  
+- User Login & Register  
+- Join Club (Become a Member)  
+- Event Registration (Only for logged-in users)  
+- Subscribe Section  
+- Contact Us Page  
+- Attractive and fully responsive design  
 
-Admins to manage all data using a secure dashboard
+---
+# 🌐 Accessing Pages (Routes)
 
-It includes Admin Panel + Frontend Website + User Login/Register System.
+This project runs inside **XAMPP**, so every page is accessed through a URL based on the project folder:
 
-This project was built as part of a PHP/MySQL CMS assignment.
 
-✨ Features
-🛠️ Admin Panel Features
+---
 
-✔ Admin Login
-✔ Manage Clubs (Add / Edit / Delete)
-✔ Manage Members
-✔ Manage Events
-✔ Upload Event Posters
-✔ Upload Members Photos
-✔ Event Gallery (Multiple photos per event)
-✔ View User Event Registrations
-✔ Dashboard Overview
-✔ Clean and responsive UI
+## 📁 Frontend Routes
 
-🌐 Frontend Features
+All frontend pages are inside:
 
-✔ Home Page with Featured Clubs & Events
-✔ Club Details Page (Members, Events, About Section)
-✔ Event Details Page
-✔ User Login & Registration
-✔ Join Club (Become a Member)
-✔ Event Registration (Only for Logged-In Users)
-✔ Subscribe Section (stores emails to DB)
-✔ Contact Us Page
-✔ Attractive and responsive UI
 
-🗄️ Tech Stack
+| Page | URL |
+|------|------|
+| Home | http://localhost/Student_Clubs_CMS/frontend/index.php |
+| All Clubs | http://localhost/Student_Clubs_CMS/frontend/clubs.php |
+| Club Details | http://localhost/Student_Clubs_CMS/frontend/club.php?id=1 |
+| All Events | http://localhost/Student_Clubs_CMS/frontend/events.php |
+| Event Details | http://localhost/Student_Clubs_CMS/frontend/event.php?id=5 |
+| User Login | http://localhost/Student_Clubs_CMS/frontend/login.php |
+| User Register | http://localhost/Student_Clubs_CMS/frontend/register.php |
+| Contact Us | http://localhost/Student_Clubs_CMS/frontend/contact.php |
 
-PHP 8+
+---
 
-MySQL / MariaDB
+## 🔐 Admin Panel Routes
 
-HTML5, CSS3
+Admin pages are inside:
 
-JavaScript (minimal)
 
-XAMPP for local development
+| Page | URL |
+|--------|------|
+| Admin Login | http://localhost/Student_Clubs_CMS/admin/login.php |
+| Dashboard | http://localhost/Student_Clubs_CMS/admin/dashboard.php |
+| Manage Clubs | http://localhost/Student_Clubs_CMS/admin/clubs/index.php |
+| Manage Members | http://localhost/Student_Clubs_CMS/admin/members/index.php |
+| Manage Events | http://localhost/Student_Clubs_CMS/admin/events/index.php |
+| Event Gallery | http://localhost/Student_Clubs_CMS/admin/gallery/index.php |
+| Event Registrations | http://localhost/Student_Clubs_CMS/admin/registrations/index.php |
 
-Git & GitHub
+---
+
+## 🖼️ Image File Routes
+
+Uploaded images live in:
+
+/Student_Clubs_CMS/uploads/club_logos/logo.png
+/Student_Clubs_CMS/uploads/event_posters/poster.jpg
+/Student_Clubs_CMS/uploads/member_photos/user.png
