@@ -19,6 +19,11 @@ The **Student Clubs CMS** is a web-based application designed to help colleges m
 
 <img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/d42e4a99-63ae-4072-bae2-50150049d3fe" />
 
+# View Particular event and register for it
+
+<img width="1900" height="810" alt="image" src="https://github.com/user-attachments/assets/cdee901b-f277-413a-81e0-be68ac299226" />
+
+
 # Admin Login Page (Username = admin && Password = admin123)
 
 <img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/e4f0d2fc-0ff4-4890-8393-8d491515a9db" />
