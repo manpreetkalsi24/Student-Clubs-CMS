@@ -2,7 +2,18 @@
 
 A simple PHP & MySQL based Content Management System that allows students to explore clubs, events, register as members, and manage everything through an admin dashboard.
 <img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/0d9b9aa2-89a2-461d-b748-8444fd730049" />
-
+---
+# Homepage
+<img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/b2b952c2-2fac-44f6-8f4f-c92dd38ddcb9" />
+---
+# View all Clubs on Frontend
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/e4f0d2fc-0ff4-4890-8393-8d491515a9db" />
+---
+# Admin Login Page (Username = admin && Password = admin123)
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/8cf6dd61-0c80-4ecc-8c79-0b91ac4708bb" />
+---
+# Admin Dashboard View all clubs
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/7b068a60-f7ab-47a4-8bc2-51938aa5a93e" />
 
 ---
 ## 👩‍💻 Developed By  
