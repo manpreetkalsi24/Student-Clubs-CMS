@@ -42,14 +42,13 @@ This project includes **Admin Panel + Frontend Website + User Login System**.
 - User Login & Register  
 - Join Club (Become a Member)  
 - Event Registration (Only for logged-in users)  
-- Subscribe Section  
-- Contact Us Page  
+- Subscribe Section    
 - Attractive and fully responsive design  
 
 ---
 # 🌐 Accessing Pages (Routes)
 
-This project runs inside **XAMPP**, so every page is accessed through a URL based on the project folder:
+This project runs inside **XAMPP** or **MAMP**, so every page is accessed through a URL based on the project folder:
 
 
 ---
@@ -68,7 +67,6 @@ All frontend pages are inside:
 | Event Details | http://localhost/Student_Clubs_CMS/frontend/event.php?id=5 |
 | User Login | http://localhost/Student_Clubs_CMS/frontend/login.php |
 | User Register | http://localhost/Student_Clubs_CMS/frontend/register.php |
-| Contact Us | http://localhost/Student_Clubs_CMS/frontend/contact.php |
 
 ---
 
@@ -84,7 +82,7 @@ Admin pages are inside:
 | Manage Clubs | http://localhost/Student_Clubs_CMS/admin/clubs/index.php |
 | Manage Members | http://localhost/Student_Clubs_CMS/admin/members/index.php |
 | Manage Events | http://localhost/Student_Clubs_CMS/admin/events/index.php |
-| Event Gallery | http://localhost/Student_Clubs_CMS/admin/gallery/index.php |
+| Event Gallery | http://localhost/Student_Clubs_CMS/admin/event_gallery/index.php |
 | Event Registrations | http://localhost/Student_Clubs_CMS/admin/registrations/index.php |
 
 ---
