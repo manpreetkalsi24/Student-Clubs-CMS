@@ -11,6 +11,10 @@ The **Student Clubs CMS** is a web-based application designed to help colleges m
 
 <img width="1917" height="868" alt="image" src="https://github.com/user-attachments/assets/b2b952c2-2fac-44f6-8f4f-c92dd38ddcb9" />
 
+# Particular Club detail Page
+
+<img width="1900" height="870" alt="image" src="https://github.com/user-attachments/assets/b53f199d-a3c8-47a1-9bd0-dc495e3790ba" />
+
 # View all events on Frontend
 
 <img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/d42e4a99-63ae-4072-bae2-50150049d3fe" />
