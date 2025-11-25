@@ -1,6 +1,8 @@
 # 📘 Student Clubs CMS
 
 A simple PHP & MySQL based Content Management System that allows students to explore clubs, events, register as members, and manage everything through an admin dashboard.
+<img width="1918" height="866" alt="image" src="https://github.com/user-attachments/assets/0d9b9aa2-89a2-461d-b748-8444fd730049" />
+
 
 ---
 ## 👩‍💻 Developed By  
