@@ -341,11 +341,11 @@ body {
 .club-detail-logo {
     width: 100px;
     border-radius: 14px;
-    margin-bottom: 20px;
+
 }
 
 .club-description {
-    font-size: 18px;
+    font-size: 16px;
     line-height: 1.5;
     margin-top: 20px;
     margin-bottom: 20px;

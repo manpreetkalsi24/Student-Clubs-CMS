@@ -63,7 +63,7 @@ if (isset($_POST['register_member'])) {
     <!--  LEFT SIDE  -->
     <div class="club-left">
 
-        <h2>About <?php echo $club['name']; ?></h2>
+        <h2 style="margin-bottom: 20px;">About <?php echo $club['name']; ?></h2>
 
         <img src="/Student_Clubs_CMS/uploads/club_logos/<?php echo $club['logo']; ?>" class="club-detail-logo">
 
